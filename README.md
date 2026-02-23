@@ -1,21 +1,21 @@
 # modern-rts
-**Роадмап**
-- [x] Стройка
-  - [x] Строение "чертежей"
-  - [x] Воркер система
-- [ ] Атака
-  - [x] Базовая атака
-  - [ ] Атака по классам
-  - [x] Атака на стороне сервера
-  - [ ] Здания с атакой
-- [ ] Движение
-  - [x] Базовое движение
-  - [ ] Ограничители движения и разные типы техники
-  - [x] Оптимизация
-- [ ] Меню
-- [ ] Карты
-  - [ ] Сами карты
-  - [x] Выбор карт
-- [ ] Режимы
+**Roadmap**
+- [x] building
+  - [x] blueprints
+  - [x] builders/workers system
+- [ ] attack
+  - [x] default attack
+  - [ ] Class Atack
+  - [x] Attack from server side
+  - [ ] attacking building(50/50)
+- [ ] Movement
+  - [x] Default movement
+  - [ ] limiters and different types
+  - [x] optimization
+- [ ] menu(testing)
+- [ ] Maps
+  - [ ] maps
+  - [x] map vote
+- [ ] game modes
 
   
